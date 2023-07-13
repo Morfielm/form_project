@@ -1,0 +1,30 @@
+.registration-form {
+  padding: 20px;
+}
+
+.registration-form .form-input-containter {
+  margin-bottom: 20px;
+}
+
+.registration-form .form-input-containter label {
+  display: flex;
+  flex-direction: row;
+  width: 250px;
+  justify-content: space-between;
+}
+
+.registration-form .form-input-containter .input-error {
+  font-size: 12px;
+  color: red;
+}
+
+.registration-form input {
+  height: 20px;
+  margin-left: 20px;
+}
+
+.registration-form .form-button {
+    font-size: 16px;
+}
+
+
